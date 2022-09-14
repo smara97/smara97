@@ -8,7 +8,7 @@
 
 🔭 I’m currently working as Data Scientist at Wakeb(Egypt).</br>
 🌱 I’m currently learning Graph with Machine Learning and MLOps.</br>
-📫 How to reach me: [Email](Ahmedsmara33@gmail.com) | [Linkedin](https://www.linkedin.com/in/ahmed-muhammad-249a5817b/)</br>
+📫 How to reach me: [Email](Ahmedsmara33@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) | [Linkedin](https://www.linkedin.com/in/ahmed-muhammad-249a5817b/)</br>
 ⚡ Fun fact: In my free time, I solve problems on Leetcode, HackerRank and Codeforces.</br>
 
 
