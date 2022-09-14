@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<div class="tenor-gif-embed" data-postid="15160023" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/monkey-developer-software-coding-debug-gif-15160023">Monkey Developer GIF</a>from <a href="https://tenor.com/search/monkey-gifs">Monkey GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+-![Sample Gif](https://c.tenor.com/pPKOYQpTO8AAAAAC/monkey-developer.gif)
 :boy: About me: I have a good experience in Machine learning, Deep learning, Data structure and Algorithms... trying apply them in Natural Language Processing (NLP) and Computer vision by different ways. 🖥️</br>
 
 🔭 I’m currently working as Data Scientist at Wakeb(Egypt).</br>
