@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://tenor.com/bbLYF.gif)" width="600" height="300"/>
 </div>
 
 :boy: About me: I have a good experience in Machine learning, Deep learning, Data structure and Algorithms... trying apply them in Natural Language Processing (NLP) and Computer vision by different ways. 🖥️</br>
