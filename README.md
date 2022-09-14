@@ -8,7 +8,7 @@
 
 🔭 I’m currently working as Data Scientist at Wakeb(Egypt).</br>
 🌱 I’m currently learning Graph with Machine Learning and MLOps.</br>
-📫 How to reach me: Ahmedsmara33@gmail.com [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-muhammad-249a5817b/)</br>
+📫 How to reach me: Ahmedsmara33@gmail.com ![Linkedin Badge](https://www.linkedin.com/in/ahmed-muhammad-249a5817b/)</br>
 ⚡ Fun fact: In my free time, I solve problems on Leetcode, HackerRank and Codeforces.</br>
 
 
