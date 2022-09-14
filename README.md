@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Aout Me: I have a good experience in Machine learning, Deep learning, Data structure and Algorithms... trying apply them in Natural Language Processing (NLP) and Computer vision by different ways. 🖥️
+Aout Me: I have a good experience in Machine learning, Deep learning, Data structure and Algorithms... trying apply them in Natural Language Processing (NLP) and Computer vision by different ways. 🖥️</br>
 
-🔭 I’m currently working as Data Scientist at Wakeb(Egypt).
-🌱 I’m currently learning Graph with Machine Learning and MLOps.
-📫 How to reach me: Ahmedsmara33@gmail.com
-⚡ Fun fact: In my free time, I solve problems on Leetcode, HackerRank and Codeforces.
+🔭 I’m currently working as Data Scientist at Wakeb(Egypt).</br>
+🌱 I’m currently learning Graph with Machine Learning and MLOps.</br>
+📫 How to reach me: Ahmedsmara33@gmail.com </br>
+⚡ Fun fact: In my free time, I solve problems on Leetcode, HackerRank and Codeforces.</br>
 
 
 
