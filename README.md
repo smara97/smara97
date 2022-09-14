@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://c.tenor.com/pPKOYQpTO8AAAAAd/monkey-developer.gif"></div>
+  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://c.tenor.com/pPKOYQpTO8AAAAAd/monkey-developer.gif"></div>
 
 :boy: About me: I have a good experience in Machine learning, Deep learning, Data structure and Algorithms... trying apply them in Natural Language Processing (NLP) and Computer vision by different ways. 🖥️</br>
 
