@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://github.com/smara97/smara97/blob/main/monkey-developer.gif" width="600" height="300"/>
 </div>
 
 
