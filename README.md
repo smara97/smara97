@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--![Sample Gif](https://c.tenor.com/pPKOYQpTO8AAAAAC/monkey-developer.gif)
+![Sample Gif](https://c.tenor.com/pPKOYQpTO8AAAAAC/monkey-developer.gif)
 :boy: About me: I have a good experience in Machine learning, Deep learning, Data structure and Algorithms... trying apply them in Natural Language Processing (NLP) and Computer vision by different ways. 🖥️</br>
 
 🔭 I’m currently working as Data Scientist at Wakeb(Egypt).</br>
