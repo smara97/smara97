@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-:boy: About Me: I have a good experience in Machine learning, Deep learning, Data structure and Algorithms... trying apply them in Natural Language Processing (NLP) and Computer vision by different ways. 🖥️</br>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+:boy: About me: I have a good experience in Machine learning, Deep learning, Data structure and Algorithms... trying apply them in Natural Language Processing (NLP) and Computer vision by different ways. 🖥️</br>
 
 🔭 I’m currently working as Data Scientist at Wakeb(Egypt).</br>
 🌱 I’m currently learning Graph with Machine Learning and MLOps.</br>
