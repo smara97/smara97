@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Aout Me: I have a good experience in Machine learning, Deep learning, Data structure and Algorithms... trying apply them in Natural Language Processing (NLP) and Computer vision by different ways. 🖥️
+
+🔭 I’m currently working as Data Scientist at Wakeb(Egypt).
+🌱 I’m currently learning Graph with Machine Learning and MLOps.
+📫 How to reach me: Ahmedsmara33@gmail.com
+⚡ Fun fact: In my free time, I solve problems on Leetcode, HackerRank and Codeforces.
+
+
+
 <!--
 **smara97/smara97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
