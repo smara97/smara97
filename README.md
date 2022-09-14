@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-![]("https://tenor.com/search/monkey-gifs")
+![GIF]("https://tenor.com/search/monkey-gifs")
 
 
 :boy: About me: I have a good experience in Machine learning, Deep learning, Data structure and Algorithms... trying apply them in Natural Language Processing (NLP) and Computer vision by different ways. 🖥️</br>
