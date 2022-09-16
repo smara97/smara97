@@ -12,6 +12,13 @@
 📫 How to reach me: [Email](mailto:Ahmedsmara33@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) | [Linkedin](https://www.linkedin.com/in/ahmed-muhammad-249a5817b/)</br>
 ⚡ Fun fact: In my free time, I solve problems on Leetcode, HackerRank and Codeforces.</br>
 
+:books: Interesting Books: 
+
+System Design Interview by Alex Xu.</br>
+Designing Data Intensive Applications.</br>
+Graph Machine Learning.</br>
+Practical Statistics for data scientist.</br>
+
 
 
 <!--
