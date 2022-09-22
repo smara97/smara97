@@ -14,6 +14,7 @@
 
 :books: Interesting Books: 
 
+Deep Learning Ian Goodfellow.</br>
 System Design Interview by Alex Xu.</br>
 Designing Data Intensive Applications.</br>
 Graph Machine Learning.</br>
